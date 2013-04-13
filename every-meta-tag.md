@@ -1,4 +1,7 @@
-More information can be found at http://code.lancepollard.com/complete-list-of-html-meta-tags/
+Resources:
+
+http://code.lancepollard.com/complete-list-of-html-meta-tags/
+http://www.iacquire.com/blog/18-meta-tags-every-webpage-should-have-in-2013/
 
 ## Basic HTML Meta Tags
 
