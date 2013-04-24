@@ -12,7 +12,7 @@ http://www.iacquire.com/blog/18-meta-tags-every-webpage-should-have-in-2013/
 <meta name='subject' content='your website's subject'>
 <meta name='copyright' content='company name'>
 <meta name='language' content='ES'>
-<meta name='robots' content='index,follow'>
+<meta name='robots' content='index,follow,noodp'>
 <meta name='revised' content='Sunday, July 18th, 2010, 5:15 pm'>
 <meta name='abstract' content=''>
 <meta name='topic' content=''>
@@ -202,6 +202,13 @@ More info can be found at http://schema.org/docs/gs.html
 <meta name='csrf-token' content='/bZVwvomkAnwAI1Qd37lFeewvpOIiackk9121fFwWwc='>
 ```
     
+#### Yahoo!
+
+``` html
+<meta name='robots' content='noydir' >
+<meta name='Slurp' content='noydir' >
+```
+
 ## HTML Link Tags
 
 ``` html
